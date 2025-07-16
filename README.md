@@ -5,7 +5,7 @@
 > Hope you find something inspiring here
 >
 ## Projects
-![https://github.com/ProjectMIKO]
+[MIKO](https://github.com/ProjectMIKO)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/T3rryAhn?pet-id=1" width="1000" height="120"/>
