@@ -13,16 +13,35 @@ t3rryahn.dev@gmail.com
 
 ***
 ## Projects
-- MIKO
-  - [MIKO](https://github.com/ProjectMIKO)
+#### MIKO
+> Meeting In Keyword Out, AI 마인드맵 자동 생성 화상회의 웹 서비스
 
-- OS
-  - [PintOS](https://github.com/JunglePintOS/pintos-kaist)
+`python`, `openAi-gpt API`, `STT`, `torchAudio`, `MSA`, `MongoDB`
 
-- Toy
+[MIKO](https://github.com/ProjectMIKO)
+
+#### MoimMoim
+> 개인이 기획한 모임을 게시하고 티켓팅 할 수 있는 웹 플랫폼
+
+`java`, `spring`, `OracleSQL`
+
+#### OS
+> PintOS라는 학습용 운영체제 구현.
+> cpu 스케쥴링, 스왑, 시스템콜 등 구현
+  - [PintOS 레포지터리](https://github.com/JunglePintOS/pintos-kaist)
+  - [구현 글](https://terryahn.tistory.com/category/SW%20Jungle/TIL)
+
+#### Toy
+마법의 소라고동
+> 크롬 확장프로그램. 스폰지밥의 마법의 소라고동으로 고리를 당기면 yes or no 대답을 해줌.
   - [Magic Conch Extension](https://github.com/T3rryAhn/magic-conch-extension)
-- Arduino
-  - [(https://terryahn.tistory.com/category/Projects/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
+  - [구현 글](https://terryahn.tistory.com/61)
+#### Arduino
+관람객을 쳐다보는 피규어 작품
+  - [3d printing, arduino](https://terryahn.tistory.com/10)
+    
+스마트 콘크리트 자동 양생 시스템
+  - [smartconcrete](https://terryahn.tistory.com/31)
 
 ***
 
