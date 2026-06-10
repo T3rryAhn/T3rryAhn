@@ -29,7 +29,7 @@ t3rryahn.dev@gmail.com
 > PintOS라는 학습용 운영체제 구현.
 > cpu 스케쥴링, 스왑, 시스템콜 등 구현
   - [PintOS 레포지터리](https://github.com/JunglePintOS/pintos-kaist)
-  - [구현 글](https://terryahn.tistory.com/category/SW%20Jungle/TIL)
+  - [구현 글](https://terryahn.tistory.com/category/TIL)
 
 #### Toy
 마법의 소라고동
